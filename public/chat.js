@@ -1,4 +1,4 @@
-var socket = io.connect('http://localhost:5000');
+var socket = io.connect('http://3.81.10.145:5000');
 
 var persona = document.getElementById('persona'),
     contrasena = document.getElementById('contraseña'),
